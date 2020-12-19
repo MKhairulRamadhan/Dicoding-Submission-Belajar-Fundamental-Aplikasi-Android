@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="user_name">Nama Pahlawan</string>
+    <string name="user_repository">Detail</string>
+    <string name="all_user_list">All user list</string>
+    <string name="github_user">GitHub User</string>
+    <string name="kamis_20_juni_2020">kamis, 20 juni 2020</string>
+    <string name="github_user_1">GITHUB USER</string>
+    <string name="find_all_github_users_and_repository_and_company_data">find all github users and repository and company data</string>
+    <string name="follower">Follower</string>
+    <string name="_20">20</string>
+    <string name="slash">/</string>
+    <string name="_2">2</string>
+    <string name="following">Following</string>
+    <string name="location">location</string>
+    <string name="bio">My name is fitri ananda I am a student at aceh university who has free time to work as a baby sitter, I already have 2 year of experience as a baby sitter and I am sure that I can work well, I have an honest, friendly and responsible person.</string>
+    <string name="location_1">Location : jl . dsdfs</string>
+    <string name="username">username: intant_sari</string>
+</resources>

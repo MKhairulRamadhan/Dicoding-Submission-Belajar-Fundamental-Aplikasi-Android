@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Pengguna Github</string>
+    <string name="user_name">Nama</string>
+    <string name="user_repository">Detail</string>
+    <string name="all_user_list">Semua list pengguna</string>
+    <string name="github_user">Pengguna Github</string>
+    <string name="kamis_20_juni_2020">kamis, 20 juni 2020</string>
+    <string name="github_user_1">PENGGUNA GITHUB</string>
+    <string name="find_all_github_users_and_repository_and_company_data">temukan semua pengguna github, repo dan perusahaan</string>
+    <string name="follower">Pengikut</string>
+    <string name="_20">20</string>
+    <string name="_2">2</string>
+    <string name="following">Mengikuti</string>
+    <string name="location">lokasi</string>
+    <string name="bio">biodata</string>
+    <string name="location_1">Location : jl . dsdfs</string>
+    <string name="username">username: intant_sari</string>
+    <string name="gambar">Gambar</string>
+    <string name="intan_sari">Intan sari</string>
+    <string name="repository">Repository :</string>
+    <string name="slash">/</string>
+    <string name="company_asus">perusahaan : asus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name">Nama</string>
+    <string name="username2">Username</string>
+    <string name="location2">Lokasi</string>
+    <string name="company2">Perusahaan</string>
+
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+
+    <string name="search">Cari Disini</string>
+</resources>
